@@ -1,0 +1,9 @@
+OBJECTIVE
+The main objective is to make a adventure game
+1) We will need to make a function that takes input from the user. 
+This should have parameters of what is needed(option 1, option 2, option 3). 
+Their input will have to be stored somewhere
+2) We will need to store their option into a variable
+3) We will need to prompt the user for each choice(option).
+4) We will need to put all of the users inputs into the story
+5) We will need to print the story for the user to read
